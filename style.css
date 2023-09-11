@@ -17,7 +17,7 @@ body {
         rgba(41, 41, 41, 1) 0%,
         rgba(41, 41, 41, 1) 50%,
         rgba(0, 0, 0, 1) 100%
-    );
+    ) no-repeat center center fixed;
 }
 
 .heading-text {
